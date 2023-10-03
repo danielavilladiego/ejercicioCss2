@@ -6,7 +6,7 @@
  }
 
  header {
-    background-image: linear-gradient(rgba(105, 96, 96, 0.45), rgba(105, 97, 97, 0.45)), url('/imagenes/portada3jpg.jpg');
+    background-image: linear-gradient(rgba(105, 96, 96, 0.45), rgba(105, 97, 97, 0.45)), url('./imagenes/portada.jpg');
     background-repeat: no-repeat; /* Evita que la imagen se repita */
     background-size: cover; /* Ajusta la imagen al tamaño del body */
     /*background-attachment: fixed;  Fija la imagen para que no se desplace con el desplazamiento de la página */
